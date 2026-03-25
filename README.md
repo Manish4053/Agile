@@ -179,7 +179,100 @@ If cycle time decreases → process is improving
 
 👉 **Common Agile metrics are classified into three types: Team-level metrics (velocity, burndown), Product-level metrics (defects, customer satisfaction), and Process-level metrics (lead time, cycle time, throughput), which together help evaluate performance, quality, and workflow efficiency.**
 
+
 ---
 
-If you want, I can convert this into a **short 5-mark answer or diagram format** for quick revision 👍
+# 🔹 Agile Planning and Estimation
+
+In Agile, planning and estimation are done in **multiple stages**, not just once. This helps teams stay flexible and adapt to changes.
+
+👉 There are **3 main levels**:
+
+---
+
+# 🔹 1. Project Initiation Level (High-Level Planning)
+
+* Done at the **start of the project**
+* Focus: **overall vision and rough estimation**
+
+### What happens here:
+
+* Define project goals
+* Identify major features (called *epics*)
+* Rough cost & time estimation
+
+📌 **Example:**
+A company plans to build an e-commerce app →
+They decide features like login, cart, payment (high-level only)
+
+👉 Estimation type: **Very rough (approximate)**
+
+---
+
+# 🔹 2. Release Level (Mid-Level Planning)
+
+* Done before each **release (a group of sprints)**
+* Focus: **which features will be delivered and when**
+
+### What happens here:
+
+* Break epics into **user stories**
+* Prioritize features
+* Estimate time for each release
+
+📌 **Example:**
+Release 1 → Login + Product listing
+Release 2 → Cart + Payment
+
+👉 Estimation type: **More detailed than initiation**
+
+---
+
+# 🔹 3. Sprint Level (Detailed Planning)
+
+* Done at the **start of each sprint (iteration)**
+* Focus: **actual work to be done in 1–2 weeks**
+
+### What happens here:
+
+* Select user stories for sprint
+* Break into tasks
+* Assign work to team members
+
+📌 **Example:**
+Sprint 1 → Build login page
+Sprint 2 → Build product page
+
+👉 Estimation type: **Very detailed and accurate**
+
+---
+
+# 🔹 Easy Comparison Table
+
+| Level              | Focus                    | Estimation Type |
+| ------------------ | ------------------------ | --------------- |
+| Project Initiation | Whole project vision     | Rough           |
+| Release Level      | Features in each release | Medium          |
+| Sprint Level       | Daily/weekly tasks       | Detailed        |
+
+---
+
+# 🔹 Easy Way to Remember
+
+👉 **Big → Medium → Small**
+
+* Project → Big plan
+* Release → Medium plan
+* Sprint → Small detailed work
+
+---
+
+# 🔹 Final Exam Answer
+
+👉 **Agile planning and estimation are performed at three levels: Project Initiation Level (high-level planning and rough estimation), Release Level (feature prioritization and medium-level estimation), and Sprint Level (detailed task planning and accurate estimation for short iterations).**
+
+---
+
+
+
 
