@@ -107,8 +107,8 @@ They answer questions like:
 
 👉 **Agile Metrics are tools used to measure progress, performance, and quality in Agile projects.**
 
-Yes 👍 you’re on the right track!
-
+---
+## 🔹 Common Agile Metrics
 **Common Agile Metrics** are often grouped into **three categories**:
 
 ---
