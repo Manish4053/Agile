@@ -67,11 +67,9 @@ You can suggest changes while it's being made.
 * Websites 🌐
 * Even marketing & business projects 📊
 
----
-
-### 🔹 In One Line
 
 👉 **Agile Project Management = Doing work step-by-step with continuous improvement and feedback.**
+### 🔹 In One Line
 
 **Agile Metrics**
 
