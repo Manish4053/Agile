@@ -73,6 +73,25 @@ You can suggest changes while it's being made.
 
 👉 **Agile Project Management = Doing work step-by-step with continuous improvement and feedback.**
 
----
+**Agile Metrics**
 
-If you want, I can also explain **Scrum, Kanban, and Agile principles** in a simple exam-ready format 👍
+Agile Metrics are measurements used to track how well an Agile team is working and improving over time. They help teams understand progress, speed, quality, and efficiency.
+
+🔹 Simple Explanation
+
+👉 Agile metrics = “How are we doing?” in numbers
+
+They answer questions like:
+
+Are we working fast enough?
+Is our work improving?
+Are we delivering value?
+
+🔹 One-Line Definition
+
+👉 Agile Metrics are tools used to measure progress, performance, and quality in Agile projects.
+🔹 Why Agile Metrics Matter
+Improve team performance 🚀
+Better planning 📅
+Increase product quality ✅
+Identify problems early 🔍
