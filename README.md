@@ -107,4 +107,79 @@ They answer questions like:
 
 👉 **Agile Metrics are tools used to measure progress, performance, and quality in Agile projects.**
 
+Yes 👍 you’re on the right track!
+
+**Common Agile Metrics** are often grouped into **three categories**:
+
+---
+
+# 🔹 1. Team-Level Metrics
+
+These measure **how the team is performing**
+
+### Key Metrics:
+
+* **Velocity** → Work completed in a sprint
+* **Sprint Burndown** → Remaining work over time
+* **Work in Progress (WIP)** → Tasks being worked on
+* **Team Capacity** → How much work team can handle
+
+📌 **Example:**
+If a team consistently delivers 30 story points → good performance
+
+👉 Focus: **Team productivity & efficiency**
+
+---
+
+# 🔹 2. Product-Level Metrics
+
+These measure **quality and value of the product**
+
+### Key Metrics:
+
+* **Defect Density** → Number of bugs
+* **Escaped Defects** → Bugs found after release
+* **Customer Satisfaction** → User feedback
+* **Business Value Delivered** → Value of features delivered
+
+📌 **Example:**
+If users report fewer bugs → product quality is high
+
+👉 Focus: **Customer value & product quality**
+
+---
+
+# 🔹 3. Process-Level Metrics
+
+These measure **how efficient the workflow/process is**
+
+### Key Metrics:
+
+* **Lead Time** → Request to delivery
+* **Cycle Time** → Start to finish of a task
+* **Throughput** → Tasks completed per time
+* **Cumulative Flow Diagram (CFD)** → Workflow stages
+
+📌 **Example:**
+If cycle time decreases → process is improving
+
+👉 Focus: **Process improvement & speed**
+
+---
+
+# 🔹 Easy Way to Remember
+
+* **Team Level** → *How team works* 👨‍💻
+* **Product Level** → *What we deliver* 📦
+* **Process Level** → *How work flows* 🔄
+
+---
+
+# 🔹 Final Exam-Ready Answer
+
+👉 **Common Agile metrics are classified into three types: Team-level metrics (velocity, burndown), Product-level metrics (defects, customer satisfaction), and Process-level metrics (lead time, cycle time, throughput), which together help evaluate performance, quality, and workflow efficiency.**
+
+---
+
+If you want, I can convert this into a **short 5-mark answer or diagram format** for quick revision 👍
 
