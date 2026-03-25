@@ -70,23 +70,41 @@ You can suggest changes while it's being made.
 
     **Agile Metrics**
 
-Agile Metrics are measurements used to track how well an Agile team is working and improving over time. They help teams understand progress, speed, quality, and efficiency.
+**Agile Metrics** are measurements used to track how well an Agile team is working and improving over time. They help teams understand **progress, speed, quality, and efficiency**.
 
-🔹 Simple Explanation
+---
 
-👉 Agile metrics = “How are we doing?” in numbers
+## 🔹 Simple Explanation
+
+👉 Agile metrics = **“How are we doing?” in numbers**
 
 They answer questions like:
 
-Are we working fast enough?
-Is our work improving?
-Are we delivering value?
+* Are we working fast enough?
+* Is our work improving?
+* Are we delivering value?
 
-🔹 One-Line Definition
+## 🔹 Why Agile Metrics Matter
 
-👉 Agile Metrics are tools used to measure progress, performance, and quality in Agile projects.
-🔹 Why Agile Metrics Matter
-Improve team performance 🚀
-Better planning 📅
-Increase product quality ✅
-Identify problems early 🔍
+* Improve team performance 🚀
+* Better planning 📅
+* Increase product quality ✅
+* Identify problems early 🔍
+
+---
+
+## 🔹 Important Tip (for exams/interviews)
+
+👉 Agile metrics focus on:
+
+* **Continuous improvement**
+* **Team performance (not individual)**
+* **Customer value**
+
+---
+
+## 🔹 One-Line Definition
+
+👉 **Agile Metrics are tools used to measure progress, performance, and quality in Agile projects.**
+
+
