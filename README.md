@@ -68,10 +68,7 @@ You can suggest changes while it's being made.
 * Even marketing & business projects 📊
 
 
-👉 **Agile Project Management = Doing work step-by-step with continuous improvement and feedback.**
-### 🔹 In One Line
-
-**Agile Metrics**
+    **Agile Metrics**
 
 Agile Metrics are measurements used to track how well an Agile team is working and improving over time. They help teams understand progress, speed, quality, and efficiency.
 
